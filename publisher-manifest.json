@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "322c06e39e59f42470b0bafb",
+  "owner": "huyrg2721",
+  "repo": "page-a6d5697e612792c67ba3e9f2",
+  "title": "喵速云(CAT77)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a6d5697e612792c67ba3e9f2",
+      "a": "喵速云(CAT77)",
+      "b": "稳定全球clash加速器",
+      "entity": "喵速云(CAT77)",
+      "brand": "喵速云(CAT77)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "eccc546f849fb8a6b29c327a27500ff9e578ca3843c13ab2e2fab70f81e33fc4",
+      "content": {
+        "primary_entity": "喵速云(CAT77)",
+        "keyword1": "喵速云(CAT77)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，再导入订阅配置即可开始使用。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "选定设备与套餐后，按客户端文档导入订阅，即可连接使用。",
+          "AI_CLOSING_TITLE": "按需选套餐，连接更顺心",
+          "AI_DESCRIPTION": "，喵速云(CAT77)面向需要稳定全球连接的用户，提供多种套餐与客户端选择。基础版每月100GB流量、支持3台设备在线，适合个人轻量使用；旗舰版每月300GB流量、支持5台设备，并配有IPLC专线游戏加速优化与7x24优先工单支持；团队版每月1000GB流量、支持20台设备，提供VIP专属高带宽节点与企业定制路由。三档套餐均支持按年付，年付价格分别为¥150、¥350、¥850。使用Clash客户端时，先根据设备选择对应版本，再导入订阅配置，即可按套餐流量与设备数开始连接。",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量与订阅周期三个角度快速匹配。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量、3台设备，适合手机与电脑轻度使用，年付¥150更划算。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB流量、5台设备，含IPLC专线游戏加速优化与优先工单，年付¥350。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB流量、20台设备，含VIP高带宽节点与企业定制路由，年付¥850。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备选档",
+          "AI_FEATURE_TITLE_3": "按周期选档",
+          "AI_GUIDE_INTRO": "先确定设备数量与流量需求，再按客户端文档完成订阅导入。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "喵速云(CAT77)提供基础版、旗舰版与团队版三种套餐，覆盖每月100GB至1000GB流量、3至20台设备在线。配合Clash客户端，按设备选择版本并导入订阅，即可用于日常网页访问、流媒体与游戏加速等场景。",
+          "AI_HERO_SUBTITLE": "多档套餐，按设备灵活连接",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖100GB至1000GB月流量",
+          "AI_HIGHLIGHT_2": "支持3至20台设备同时在线",
+          "AI_HIGHLIGHT_3": "旗舰版含IPLC专线游戏加速优化",
+          "AI_PLANS_INTRO": "基础版¥15/月、旗舰版¥35/月、团队版¥85/月，按年付分别为¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比一目了然",
+          "AI_STEP_TEXT_1": "根据日常流量与在线设备数量，从基础版、旗舰版、团队版中选择适合的套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备数量、流量与客户端类型是否满足使用场景。",
+          "AI_STEP_TEXT_3": "依照Clash客户端文档导入订阅配置，完成连接后可正常使用所选套餐流量。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "喵速云套餐速览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "套餐选择、设备限制、订阅导入与付费周期。",
+          "AI_FAQ_QUESTION_1": "喵速云(CAT77)三档套餐主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，含 IPLC 专线游戏加速优化；团队版每月 1000GB、20 台设备，支持定制路由。",
+          "AI_FAQ_QUESTION_2": "如何根据设备数量选择套餐？",
+          "AI_FAQ_ANSWER_2": "同时在线 3 台以内可选基础版，5 台左右选旗舰版，超过 10 台或团队共用建议团队版。各档设备限制以套餐说明为准。",
+          "AI_FAQ_QUESTION_3": "月付和年付价格有什么不同？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。年付相当于十个月价格。",
+          "AI_FAQ_QUESTION_4": "订阅在客户端中如何导入？",
+          "AI_FAQ_ANSWER_4": "不同客户端导入方式有差异，通常在订阅管理界面粘贴订阅链接或扫描二维码。建议查阅对应客户端的使用文档。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化，适合对延迟较敏感的游戏与实时交互场景。团队版提供 VIP 专属高带宽节点。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qianjina.cn",
+    "host": "qianjina.cn"
+  },
+  "file_hashes": {
+    "index.html": "38ccd48a4ba3be52a7dddcfcde23ae017b25fa1eb9f80d83dd1ecfedcaa7cb8e",
+    "sitemap.xml": "6615ae37957381cff40b5dbbc3a31d9a92803725078f42356145f5ac07d1057f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e08f1f95726c19022aedaf7916b7f0f07ae523b429761052914ddc9da246a33e",
+    "robots.txt": "c059784ee34a36edce645a26361aa64e7aec381727d25960799ca3ac9157f10b",
+    "210132b4e7f854c596676162a62d12b9.txt": "d389a8d561ae4a1cde45b7b3226863d5abe6ffa69bcef1364fccbe4bef691fa8"
+  },
+  "revision": "960ca29b1204ddab0437a21e46139113f26c0fea1b43ec963229b52a733e0e91"
+}
